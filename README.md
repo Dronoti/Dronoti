@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Dronoti" target="_blank">Andrey Lazarev</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/Dronoti" target="_blank">Andrey Lazarev</a></h1> 
 <h3 align="center">Web, C and C++ developer | Student at École 42/School 21 | Student at Yandex.Praktikum</h3> 
 <div id="gif" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
